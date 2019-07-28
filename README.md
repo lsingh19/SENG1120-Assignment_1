@@ -1,5 +1,4 @@
-# SENG1120-Assignment_1
-Mark: 15 / 15
+# SENG1120-Assignment_1 - Mark: 15.0 / 15.0
 
 # INTRODUCTION 
 
@@ -67,7 +66,7 @@ DEMO:
 
 1. Program compiles and works correctly with the files provided (each incorrectly printed line will attract a 3-mark penalty). 
 
-2. Implementation of order(). 
+2. Implementation of order( ). 
 
 3. Late Deduction :  
 
@@ -75,13 +74,15 @@ DEMO:
  
 A: Total (  15.0 /15.0  )         
 
-B: Bonus for order() (  3.0 / 3.0  ) 
+B: Bonus for order( ) (  3.0 / 3.0  ) 
  
 REMOVE MARKS IF: 
 
 Code leads to memory leaks during execution or there are no destructors (  0.0 /1.0  ) 
 
-Lack of macroguards (  0.0 /1.0  )  Lack of const qualifiers (  0.0 /1.0  ) 
+Lack of macroguards (  0.0 /1.0  ) 
+
+Lack of const qualifiers (  0.0 /1.0  ) 
 
 Lack of documentation in the code (  0.0 /2.0  ) 
 
@@ -99,5 +100,5 @@ C: Total deductions (  0.0 / 30.0  )
 
 FINAL MARK [ MIN (15.0, A+B-C) ]:   15.0 /15.0 
 
-Comments: 
+# Comments by Marker
 Excellent work on the ordering method. (+3 bonus). Your Node object has an incomplete destructor, as the Student object that it stores will not be deleted under the control of the program / programmer. Whilst you are correct in that it will be deleted once out of scope, that relies on the operating system to control memory management and garbage collection. A good programmer should strive to control memory management themselves where possible. In saying that, you have delivered a perfect assignment, including your ordering methods. Overwhelmingly perfect!
