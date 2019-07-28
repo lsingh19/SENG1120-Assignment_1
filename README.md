@@ -1,5 +1,5 @@
 # SENG1120-Assignment_1
-Mark: 100%
+Mark: 15 / 15
 
 # INTRODUCTION 
 
