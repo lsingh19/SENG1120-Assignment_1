@@ -1,4 +1,4 @@
-# SENG1120-Assignment_1 - Mark: 15.0 / 15.0
+# SENG1120-Assignment 1 - Mark: 15.0 / 15.0
 
 # INTRODUCTION 
 
