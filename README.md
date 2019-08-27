@@ -19,27 +19,27 @@ B: Bonus for order( ) (  3.0 / 3.0  )
  
 REMOVE MARKS IF: 
 
-Code leads to memory leaks during execution or there are no destructors (  0.0 /1.0  ) 
+Code leads to memory leaks during execution or there are no destructors - (  0.0 /1.0  ) 
 
-Lack of macroguards (  0.0 /1.0  ) 
-
-
-Lack of const qualifiers (  0.0 /1.0  ) 
-
-Lack of documentation in the code (  0.0 /2.0  ) 
+Lack of macroguards - (  0.0 /1.0  ) 
 
 
-Use of Student unnecessarily in the code, i.e. other than in typedef statements (  0.0 /2.0  ) 
+Lack of const qualifiers - (  0.0 /1.0  ) 
 
-Declaration of temporary variables as member variables of the class (  0.0 /1.0  ) 
+Lack of documentation in the code - (  0.0 /2.0  ) 
 
-Lack of use of dynamic memory allocation in Node or LinkedList (  0.0 /15.0  ) 
 
-Use of friend qualifier (  0.0 /2.0 ) 
+Use of Student unnecessarily in the code, i.e. other than in typedef statements - (  0.0 /2.0  ) 
 
-Violation of encapsulation / information hiding (e.g. use of global variables) (  0.0 /5.0  ) 
+Declaration of temporary variables as member variables of the class - (  0.0 /1.0  ) 
 
-C: Total deductions (  0.0 / 30.0  ) 
+Lack of use of dynamic memory allocation in Node or LinkedList - (  0.0 /15.0  ) 
+
+Use of friend qualifier - (  0.0 /2.0 ) 
+
+Violation of encapsulation / information hiding (e.g. use of global variables) - (  0.0 /5.0  ) 
+
+C: Total deductions - (  0.0 / 30.0  ) 
 
 FINAL MARK [ MIN (15.0, A+B-C) ]:   15.0 /15.0 
 
