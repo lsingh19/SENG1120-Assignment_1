@@ -62,44 +62,44 @@ Compiling and running your files together with the demo file provided should out
 
 **Start lists**: 
 
-List 1: (Alex,15)  (Peter,10)  (John,32)  (Mary,50)  (Carol,31) 
+   - List 1: (Alex,15)  (Peter,10)  (John,32)  (Mary,50)  (Carol,31) 
 
-List 2: (Michelle,12)  (Carol,27)  (Tim,20)  (Michelle,90)  (John,75)  (Tony,60) 
+   - List 2: (Michelle,12)  (Carol,27)  (Tim,20)  (Michelle,90)  (John,75)  (Tony,60) 
 
  
 **Concatenating the two lists onto list '1':** 
 
-List 1: (Alex,15)  (Peter,10)  (John,32)  (Mary,50)  (Carol,31)  (Michelle,12)  (Carol,27)  (Tim,20)  (Michelle,90)  (John,75)  (Tony,60)  
+- List 1: (Alex,15)  (Peter,10)  (John,32)  (Mary,50)  (Carol,31)  (Michelle,12)  (Carol,27)  (Tim,20)  (Michelle,90)  (John,75)  (Tony,60)  
 
-List 2: (Michelle,12)  (Carol,27)  (Tim,20)  (Michelle,90)  (John,75)  (Tony,60) 
+- List 2: (Michelle,12)  (Carol,27)  (Tim,20)  (Michelle,90)  (John,75)  (Tony,60) 
 
  
 **Removing student 'Alex' from list '1':**
 
-List 1: (Peter,10)  (John,32)  (Mary,50)  (Carol,31)  (Michelle,12)  (Carol,27)  (Tim,20)  (Michelle,90)  (John,75)  (Tony,60) 
+- List 1: (Peter,10)  (John,32)  (Mary,50)  (Carol,31)  (Michelle,12)  (Carol,27)  (Tim,20)  (Michelle,90)  (John,75)  (Tony,60) 
 
-List 2: (Michelle,12)  (Carol,27)  (Tim,20)  (Michelle,90)  (John,75)  (Tony,60) 
+- List 2: (Michelle,12)  (Carol,27)  (Tim,20)  (Michelle,90)  (John,75)  (Tony,60) 
 
  
 **Removing student 'John' from list '2':**
 
-List 1: (Peter,10)  (John,32)  (Mary,50)  (Carol,31)  (Michelle,12)  (Carol,27)  (Tim,20)  (Michelle,90)  (John,75)  (Tony,60) 
+- List 1: (Peter,10)  (John,32)  (Mary,50)  (Carol,31)  (Michelle,12)  (Carol,27)  (Tim,20)  (Michelle,90)  (John,75)  (Tony,60) 
 
-List 2: (Michelle,12)  (Carol,27)  (Tim,20)  (Michelle,90)  (Tony,60)       
+- List 2: (Michelle,12)  (Carol,27)  (Tim,20)  (Michelle,90)  (Tony,60)       
 
  
 **Removing student 'Michelle' from both lists:**
 
-List 1: (Peter,10)  (John,32)  (Mary,50)  (Carol,31)  (Carol,27)  (Tim,20)  (John,75)  (Tony,60) 
+- List 1: (Peter,10)  (John,32)  (Mary,50)  (Carol,31)  (Carol,27)  (Tim,20)  (John,75)  (Tony,60) 
 
-List 2: (Carol,27)  (Tim,20)  (Tony,60) 
+- List 2: (Carol,27)  (Tim,20)  (Tony,60) 
 
  
 **Removing student 'Fred' from list '2':**
 
-List 1: (Peter,10)  (John,32)  (Mary,50)  (Carol,31)  (Carol,27)  (Tim,20)  (John,75)  (Tony,60) 
+- List 1: (Peter,10)  (John,32)  (Mary,50)  (Carol,31)  (Carol,27)  (Tim,20)  (John,75)  (Tony,60) 
 
-List 2: (Carol,27)  (Tim,20)  (Tony,60) 
+- List 2: (Carol,27)  (Tim,20)  (Tony,60) 
 
  
 **Average of list '1':** 28.75       
@@ -113,9 +113,9 @@ List 2: (Carol,27)  (Tim,20)  (Tony,60)
 
 **Removing the contents of list '2' from list '1':**
 
-List 1: (Peter,10)  (John,32)  (Mary,50)  (Carol,31)  (John,75) 
+- List 1: (Peter,10)  (John,32)  (Mary,50)  (Carol,31)  (John,75) 
 
-List 2: (Carol,27)  (Tim,20)  (Tony,60) 
+- List 2: (Carol,27)  (Tim,20)  (Tony,60) 
 
 
 The program has finished. 
